@@ -74,8 +74,9 @@ Students:
 |Initials|Overthewire Name|WeChall name|
 |--|--|--|
 |CT|ethicalprof|ethicalprof|
-|AH|Zorak|Zorak|
-| EW |ewarnock    |ewarnock
-| AH |ahill167 | ahill167 |
-|DB|dbow|dbow|
-| GD |mdaugh10 | mdaugh10 |
+|AH|Zorak      |Zorak      |
+|EW|ewarnock   |ewarnock
+|AH|ahill167   | ahill167  |
+|DB|dbow       |dbow       |
+|GD|mdaugh10   | mdaugh10  |
+|KJ|kjohn594   |kjohn594   |
